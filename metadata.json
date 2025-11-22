@@ -1,0 +1,5 @@
+{
+  "name": "AI Cat Dancer Studio",
+  "description": "An AI-powered studio that generates 5-second, looping dancing cat videos with synchronized disco music using Gemini 2.5 Flash, Veo 3.1, and Web Audio API.",
+  "requestFramePermissions": []
+}
